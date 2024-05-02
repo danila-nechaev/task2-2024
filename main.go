@@ -83,3 +83,6 @@ func worker(number int, outCh chan int) {
 
 	outCh <- currCount
 }
+
+/* 203380
+time since start: 0.587s */
